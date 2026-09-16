@@ -155,12 +155,12 @@ const Hero = () => {
           />
         </div>
         <h1 className=" special-font  hero-heading absolute bottom-5 right-5 z-40  text-blue-75">
-          EN<b>G</b>INEER
+          i<b>m</b>pact
         </h1>
         <div className=" absolute left-0 top-0 z-40 size-full">
           <div className=" mt-20  px-5 sm:px-10">
             <h2 className=" special-font hero-heading  text-blue-100">
-              jos<b>E</b>ph
+              g<b>E</b>nshin
             </h2>
             <p className=" mb-5 max-w-64 font-robert-regular text-blue-100 ">
               ENTER THE METAGAME LAYER <br /> unleash the play economy
@@ -170,7 +170,7 @@ const Hero = () => {
         </div>
       </div>
       <h1 className=" special-font hero-heading absolute bottom-5 right-5   text-black">
-        EN<b>G</b>INEER
+        i<b>m</b>pact
       </h1>
     </div>
   );
